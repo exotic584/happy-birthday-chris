@@ -31,7 +31,7 @@
   }
 
   // Scene 1: countdown 5..1
-  let n = 5;
+  let n = 10;
   const count = $('count');
   const timer = setInterval(() => {
     n--;
